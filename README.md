@@ -5,6 +5,11 @@ Welcome to the **JumpTradingInterview.ipynb** repository! This project provides 
 
 ![image](https://github.com/user-attachments/assets/41ce56e2-3262-4353-8d18-7039a42b67fd)
 
+
+
+https://github.com/user-attachments/assets/cd2e35da-34b8-45ef-8019-567e12b926bb
+
+
 ---
 
 ## 🌐 Dataset Overview
